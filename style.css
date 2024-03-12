@@ -90,7 +90,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    width: 100%;
+    width: 100vw;
 }
 
 h1 {
@@ -151,8 +151,8 @@ a:hover {
 }
 
 .social-links {
-    width: 100vw;
     display: flex;
-    justify-content: center;
+    justify-content: right;
+    margin-top: 60px;
     margin-right: 60px;
 }
