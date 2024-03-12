@@ -64,6 +64,10 @@ h1 {
     padding: 60px;
 }
 
+.main-text {
+  padding-top: 20px;
+}
+
 #register-button {
     color: #6c4ab5;
     font-family: 'Poppins', sans-serif;
@@ -97,10 +101,6 @@ a:hover {
     padding-right: 60px;
 }
 
-i {
-  padding: 20px 15px;
-}
-
 @media screen and (max-width: 1000px) {
   body {
     background-image: url(./images/bg-mobile.svg);
@@ -130,6 +130,5 @@ i {
   }
   h1 {
     text-align: center;
-   
   }
 }
